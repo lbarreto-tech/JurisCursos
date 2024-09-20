@@ -31,9 +31,8 @@
 					</li>
 					<li class="nav-item"><a class="nav-link" href="#">VideoChamada</a>
 					</li>
-					<li class="nav-item"><a class="nav-link" href="#">Biblioteca</a>
+					<li class="nav-item"><a class="nav-link" href="biblioteca.jsp">Biblioteca</a>
 					</li>
-					<li class="nav-item"><a class="nav-link" href="#">Login</a></li>
 				</ul>
 				<form class="d-flex" role="search">
 					<input class="form-control me-2" type="search"
@@ -129,7 +128,7 @@
 			Reservados.</p>
 	</footer>
 
-	<style>
+<style>
 body {
 	background-image: linear-gradient(rgb(65, 70, 107), rgb(29, 28, 46));
 }

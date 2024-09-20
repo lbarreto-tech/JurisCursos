@@ -30,8 +30,8 @@
 				<h2>LOGIN</h2>
 				<input type="text" placeholder="Email">
 				<input type="password" placeholder="Senha">
-				<input type="button" value="Login">
-				<a href="">Esqueceu a senha?</a>
+				<a href="principal.jsp"><input type="button" value="Login"></a>
+				<a id="esqueceuSenha" href="">Esqueceu a senha?</a>
 			</div>
 			<div class="register-show">
 				<h2>Cadastrar</h2>
@@ -82,7 +82,7 @@ body{
   font-family: 'Mukta', sans-serif;
 	height:100vh;
 	min-height:550px;
-	background-color: #92cdf7;
+	background-image: url('https://uva.br/conteudo/curso-direito-carreira-vantagens-perspectivas-scaled.webp');
 	background-repeat: no-repeat;
 	background-size:cover;
 	background-position:center;
@@ -134,6 +134,11 @@ a{
     font-weight: 600;
     font-size: 18px;
 }
+
+#esqueceuSenha{
+margin-left: 200px;
+}
+
 .login-info-box{
     width:30%;
     padding:0 50px;

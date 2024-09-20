@@ -18,21 +18,22 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link" href="#">Videos</a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Conteúdo
-          </a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Action</a></li>
-            <li><a class="dropdown-item" href="#">Another action</a></li>
-            <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Something else here</a></li>
-          </ul>
+          <a class="nav-link" href="#">Aulas</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Login</a>
+          <a class="nav-link" href="#">Questões</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">VideoAula</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">VideoChamada</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Biblioteca</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="login.jsp">Login</a>
         </li>
       </ul>
       <form class="d-flex" role="search">
@@ -50,7 +51,7 @@
 
   <h2 class="aprovacao text-primary">SÓ É IMPOSSÍVEL ATÉ VOCÊ CONQUISTAR A APROVAÇÃO!</h2>
 
-  <p>Prepare-se de forma ilimitada com JurisCursos!</p>
+  <p class="frase">Prepare-se de forma ilimitada com JurisCursos!</p>
 
   <button type="button" class="btn btn-success my-3">->COMECE AGORA SEUS ESTUDOS<-</button>
 
@@ -67,7 +68,7 @@
     </div>
     <div class="col-md-6 mb-4">
       <div class="card h-100">
-        <img src="judge-hammer.png" class="card-img-top" alt="Plano Supremo">
+        <img src="images.png" class="card-img-top" alt="Plano Supremo">
         <div class="card-body">
           <h5 class="card-title">Plano Supremo! - R$100,00</h5>
           <p class="card-text">Acesse todos os nossos conteúdos exclusivos com o Plano Supremo.</p>
@@ -87,9 +88,9 @@
 		}
 
 		body {
-			background-color: var(--background-color);
+			background-color: #09274c;
 		}
-
+		
 		#topotela {
 			padding: 15px;
 			font-family: Impact, fantasy;
@@ -103,6 +104,10 @@
 		.aprovacao {
 			text-align: center;
 			margin: 20px 0;
+		}
+		
+		.frase{
+		color:white;
 		}
 
 		p {
