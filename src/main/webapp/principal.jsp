@@ -9,12 +9,14 @@
 	rel="stylesheet"
 	integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
 	crossorigin="anonymous">
+<link rel="icon" href="Logo.png">
 <title>JurisCursos</title>
 </head>
 <body>
 
 	<nav class="navbar navbar-expand-lg bg-body-tertiary">
 		<div class="container-fluid">
+		<img id="logo" alt="" src="Logo.png">
 			<a class="navbar-brand" href="#">JurisCursos</a>
 			<button class="navbar-toggler" type="button"
 				data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
@@ -132,6 +134,11 @@
 body {
 	background-image: linear-gradient(rgb(65, 70, 107), rgb(29, 28, 46));
 }
+
+#logo{
+		width:40px;
+		margin: 5px;
+		}
 
 .frasemotivacional {
 	color: white;
