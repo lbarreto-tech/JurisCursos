@@ -26,9 +26,6 @@
           <a class="nav-link" href="#">Questões</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">VideoAula</a>
-        </li>
-        <li class="nav-item">
           <a class="nav-link" href="#">VideoChamada</a>
         </li>
         <li class="nav-item">
@@ -64,7 +61,7 @@
         <div class="card-body">
           <h5 class="card-title">Plano Gratuito - R$0,00</h5>
           <p class="card-text">Aproveite nosso plano gratuito e tenha acesso a conteúdos selecionados.</p>
-          <a href="#" class="btn btn-primary">Assinar</a>
+          <a href="login.jsp" class="btn btn-primary">Saiba mais</a>
         </div>
       </div>
     </div>
@@ -74,7 +71,7 @@
         <div class="card-body">
           <h5 class="card-title">Plano Supremo! - R$100,00</h5>
           <p class="card-text">Acesse todos os nossos conteúdos exclusivos com o Plano Supremo.</p>
-          <a href="#" class="btn btn-primary">Assinar</a>
+          <a href="login.jsp" class="btn btn-primary">Saiba mais</a>
         </div>
       </div>
     </div>

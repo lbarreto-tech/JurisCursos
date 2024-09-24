@@ -29,8 +29,6 @@
 					<li class="nav-item"><a class="nav-link" href="#">Aulas</a></li>
 					<li class="nav-item"><a class="nav-link" href="#">Questões</a>
 					</li>
-					<li class="nav-item"><a class="nav-link" href="#">VideoAula</a>
-					</li>
 					<li class="nav-item"><a class="nav-link" href="#">VideoChamada</a>
 					</li>
 					<li class="nav-item"><a class="nav-link" href="#">Biblioteca</a>
@@ -55,8 +53,8 @@
   <img src="https://doispontos.vteximg.com.br/arquivos/ids/333069-412-412/9786559775323.jpg?v=638210739228730000" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Resumo</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Acessar</a>
+    <p class="card-text">Direito sobre direito livro sobre direito livro sobre direito sobre livro direito.</p>
+    <a href="https://bibliotecadigital.tse.jus.br/xmlui/bitstream/handle/bdtse/11776/2023_gomes_direito_eleitoral.pdf?sequence=1&isAllowed=y" target="_blank" class="btn btn-primary">Acessar</a>
   </div>
 </div>
 
@@ -64,7 +62,7 @@
   <img src="https://martinsfontespaulista.vteximg.com.br/arquivos/ids/1650458-400-400/1109587.jpg?v=638588109180030000" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Resumo</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Direito sobre direito livro sobre direito livro sobre direito sobre livro direito.</p>
     <a href="#" class="btn btn-primary">Acessar</a>
   </div>
 </div>
@@ -73,7 +71,7 @@
   <img src="https://doispontos.vteximg.com.br/arquivos/ids/351232-412-412/800_9788593741760.jpg?v=638523365512630000" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Resumo</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Direito sobre direito livro sobre direito livro sobre direito sobre livro direito.</p>
     <a href="#" class="btn btn-primary">Acessar</a>
   </div>
 </div>
@@ -82,7 +80,7 @@
   <img src="https://doispontos.vteximg.com.br/arquivos/ids/333069-412-412/9786559775323.jpg?v=638210739228730000" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Resumo</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Direito sobre direito livro sobre direito livro sobre direito sobre livro direito.</p>
     <a href="#" class="btn btn-primary">Acessar</a>
   </div>
 </div>
@@ -91,7 +89,7 @@
   <img src="https://martinsfontespaulista.vteximg.com.br/arquivos/ids/1650458-400-400/1109587.jpg?v=638588109180030000" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Resumo</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Direito sobre direito livro sobre direito livro sobre direito sobre livro direito.</p>
     <a href="#" class="btn btn-primary">Acessar</a>
   </div>
 </div>
@@ -100,7 +98,7 @@
   <img src="https://doispontos.vteximg.com.br/arquivos/ids/351232-412-412/800_9788593741760.jpg?v=638523365512630000" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Resumo</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Direito sobre direito livro sobre direito livro sobre direito sobre livro direito.</p>
     <a href="#" class="btn btn-primary">Acessar</a>
   </div>
 </div>
@@ -109,7 +107,7 @@
   <img src="https://images-americanas.b2w.io/produtos/5343531348/imagens/livro-teoria-do-direito-uma-abordagem-nao-convencional/5343531348_1_large.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Resumo</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Direito sobre direito livro sobre direito livro sobre direito sobre livro direito.</p>
     <a href="#" class="btn btn-primary">Acessar</a>
   </div>
 </div>
@@ -118,7 +116,7 @@
   <img src="https://doispontos.vteximg.com.br/arquivos/ids/333069-412-412/9786559775323.jpg?v=638210739228730000" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Resumo</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Direito sobre direito livro sobre direito livro sobre direito sobre livro direito.</p>
     <a href="#" class="btn btn-primary">Acessar</a>
   </div>
 </div>

@@ -29,8 +29,6 @@
 					<li class="nav-item"><a class="nav-link" href="#">Aulas</a></li>
 					<li class="nav-item"><a class="nav-link" href="#">Questões</a>
 					</li>
-					<li class="nav-item"><a class="nav-link" href="#">VideoAula</a>
-					</li>
 					<li class="nav-item"><a class="nav-link" href="#">VideoChamada</a>
 					</li>
 					<li class="nav-item"><a class="nav-link" href="biblioteca.jsp">Biblioteca</a>
@@ -56,8 +54,8 @@
 		<div class="card-body">
 			<h5 class="card-title">ILIMITADO ANUAL</h5>
 			<p class="card-text">POR R$33,00/mês</p>
-			<button type="button" class="btn btn-warning">COMPRAR COM
-				DESCONTO</button>
+			<a href="pagamento.jsp"><button type="button" class="btn btn-warning">COMPRAR COM
+				DESCONTO</button></a>
 		</div>
 	</div>
 
