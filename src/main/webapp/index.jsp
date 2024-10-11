@@ -4,6 +4,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
+	<link rel="stylesheet" href="style.css">
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 	<link rel="icon" href="Logo.png">
 	<title>JurisCursos</title>
@@ -77,77 +78,6 @@
     </div>
   </div>
 </div>
-
-<style>
-		:root {
-			--primary-color: #007bff;
-			--background-color: #92cdf7;
-			--text-color: #ffffff;
-			--box-shadow-color: rgba(0, 0, 0, 0.3);
-		}
-
-		body {
-			background-color: #09274c;
-		}
-		
-		#topotela {
-			padding: 15px;
-			font-family: Impact, fantasy;
-			color: var(--text-color);
-			background-color: var(--primary-color);
-			box-shadow: 3px 3px 5px var(--box-shadow-color);
-			text-align: center;
-			margin-bottom: 20px;
-		}
-		
-		#logo{
-		width:40px;
-		margin: 5px;
-		}
-
-		.aprovacao {
-		text-align: center;
-		margin: 20px;
-		}
-		
-		.frase{
-		color:white;
-		}
-
-		p {
-			text-align: center;
-			margin-bottom: 20px;
-		}
-
-		.btn-success {
-			display: block;
-			margin: 0 auto;
-		}
-
-		.card {
-			margin: 0 auto;
-			max-width: 100%;
-		}
-
-		.card img {
-			height: 200px;
-			object-fit: cover;
-		}
-
-		@media (max-width: 768px) {
-			.card img {
-				height: 150px;
-			}
-
-			#topotela {
-				font-size: 1.5rem;
-			}
-
-			.aprovacao {
-				font-size: 1.25rem;
-			}
-		}
-	</style>
 
 </body>
 </html>

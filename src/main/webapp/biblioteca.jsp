@@ -4,6 +4,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<link rel="stylesheet" href="biblioteca.css">
 <link
 	href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
 	rel="stylesheet"
@@ -191,137 +192,18 @@
 			Reservados.</p>
 	</footer>
 	
-<style>
+	<style>
 	
-body{
-background-color:rgb(65, 70, 107);
+		body{
+background-color:#41466b;
 }
 
-#logo{
-width:40px;
-margin: 5px;
-}
-
-h1{
-color:white;
-margin-top: 10px;
-margin-left: 20px;
-margin-bottom: 30px;
-}
-
-svg{
-margin-right: 10px;
-}
-
-.livros-container {
-  background-color: rgb(85, 90, 130);
-  padding: 20px;
-  border-radius: 10px;
-  margin: 30px;
-}
-
-#livro1{
-margin-left: 10px;
-}
-
-#livro2{
-margin-left: 390px;
-margin-top: -478px;
-}
-
-#livro3{
-margin-left: 770px;
-margin-top: -478px;
-}
-
-#livro4{
-margin-left: 1130px;
-margin-top: -478px;
-}
-
-#livro5{
-margin-top: 25px;
-margin-left: 10px;
-}
-
-#livro6{
-margin-top: -478px;
-margin-left: 390px;
-}
-
-#livro7{
-margin-left: 770px;
-margin-top: -478px;
-}
-
-#livro8{
-margin-left: 1130px;
-margin-top: -478px;
-}
-
-.pagination{
-margin-left: 650px;
-margin-top: 50px;
-}
-
-
-.rodape {
-	background-color: #4287f5;
-	color: white;
-	height: auto;
-	width: 100%;
-	font-size: 14px;
-	font-family: helvetica;
-	margin-top: 80px;
-}
-
-.rodape a {
-	text-decoration: none;
-	color: white;
-}
-
-.rodape p {
-	margin-bottom: 5px;
-}
-
-.rodape-div {
-	display: flex;
-	flex-wrap: wrap;
-	width: 100%;
-	margin: auto;
-	align-items: stretch;
-	padding: 60px 10px 40px 10px;
-}
-
-.rodape-div-1, .rodape-div-2, .rodape-div-3, .rodape-div-4 {
-	display: flex;
-	width: calc(100%/ 4 - 20px);
-	padding: 10px;
-}
-
-.rodape span {
-	font-size: 20px;
-	color: white;
-}
-
-.rodape-direitos {
-	width: 100%;
-	background-color: black;
-	padding: 10px;
-	margin: 0px;
-	text-align: center;
-}
-/*mobile*/
-@media ( max-width : 768px) {
-	.rodape-div-1, .rodape-div-2, .rodape-div-3, .rodape-div-4 {
-		width: calc(50% - 20px);
-		padding: 10px;
-	}
-	.rodape-div {
-		padding: 60px 0px 40px 0px;
-	}
-
+		h1{
+		color:white;
+		margin-top: 10px;
+		}
 	
-</style>
+	</style>
+
 </body>
 </html>

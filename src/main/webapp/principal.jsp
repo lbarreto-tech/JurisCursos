@@ -4,6 +4,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<link rel="stylesheet" href="principal.css">
 <link
 	href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
 	rel="stylesheet"
@@ -72,8 +73,8 @@
 				audiências e tribunais. Aprenda técnicas de persuasão em construção
 				de discursos sólidos que impactam juízes e jurados.</p>
 			<img class="img" alt="" src="Martelo.png">
-			<button type="button" class="btn btn-primary">Ver
-				Testemunhos</button>
+			<a href="comentarios.jsp"><button type="button" class="btn btn-primary">Ver
+				Testemunhos</button></a>
 		</div>
 	</div>
 
@@ -128,138 +129,6 @@
 			Reservados.</p>
 	</footer>
 
-<style>
-body {
-	background-image: linear-gradient(rgb(65, 70, 107), rgb(29, 28, 46));
-}
 
-#logo{
-		width:40px;
-		margin: 5px;
-		}
-
-.frasemotivacional {
-	color: white;
-	margin-top: 10px;
-	margin-left: 50px;
-	font-family: Inter;
-	font-weight: bold;
-}
-
-.frazeapoio {
-	color: white;
-	margin-left: 50px;
-	font-size: 18px;
-}
-
-.card {
-	float: right;
-	margin-right: 200px;
-	margin-top: 80px;
-	height: 200px;
-}
-
-.imgp {
-	margin-left: 90px;
-	margin-bottom:100px;
-	width: 600px;
-}
-
-.justica {
-	margin-top: 110px;
-	margin-left: 120px;
-	font-size: 40px;
-	font-family:;
-	color:#964b00;
-}
-
-.todo {
-	background-color: #dedcff;
-}
-
-.img {
-	margin-bottom: 40px;
-	margin-top: -190px;
-	margin-left: 130px;
-	width: 400px;
-}
-
-.justica2 {
-	margin-top:-50px;
-	margin-left: 800px;
-	margin-right: 80px;
-	text-align: center;
-	color: #4287f5;
-}
-
-.justica3 {
-	margin-left: 800px;
-	margin-right: 60px;
-	text-align: justify;
-	font-size: 20px;
-}
-
-.btn-primary {
-	margin-left: 450px;
-	margin-top: -130px;
-	width:300px;
-}
-
-.rodape {
-	background-color: #4287f5;
-	color: white;
-	height: auto;
-	width: 100%;
-	font-size: 14px;
-	font-family: helvetica;
-}
-
-.rodape a {
-	text-decoration: none;
-	color: white;
-}
-
-.rodape p {
-	margin-bottom: 5px;
-}
-
-.rodape-div {
-	display: flex;
-	flex-wrap: wrap;
-	width: 100%;
-	margin: auto;
-	align-items: stretch;
-	padding: 60px 10px 40px 10px;
-}
-
-.rodape-div-1, .rodape-div-2, .rodape-div-3, .rodape-div-4 {
-	display: flex;
-	width: calc(100%/ 4 - 20px);
-	padding: 10px;
-}
-
-.rodape span {
-	font-size: 20px;
-	color: white;
-}
-
-.rodape-direitos {
-	width: 100%;
-	background-color: black;
-	padding: 10px;
-	margin: 0px;
-	text-align: center;
-}
-/*mobile*/
-@media ( max-width : 768px) {
-	.rodape-div-1, .rodape-div-2, .rodape-div-3, .rodape-div-4 {
-		width: calc(50% - 20px);
-		padding: 10px;
-	}
-	.rodape-div {
-		padding: 60px 0px 40px 0px;
-	}
-}
-</style>
 </body>
 </html>
