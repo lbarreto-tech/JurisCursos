@@ -17,8 +17,8 @@
 
 	<nav class="navbar navbar-expand-lg bg-body-tertiary">
 		<div class="container-fluid">
-		<img id="logo" alt="" src="Logo.png">
-			<a class="navbar-brand" href="#">JuriCursos</a>
+
+			<a class="navbar-brand" href="#"><img id="logo" alt="" src="Logo.png">JuriCursos</a>
 			<button class="navbar-toggler" type="button"
 				data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
 				aria-controls="navbarSupportedContent" aria-expanded="false"
