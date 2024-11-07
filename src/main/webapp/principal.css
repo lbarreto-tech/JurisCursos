@@ -1,8 +1,11 @@
 @charset "UTF-8";
 
 body {
-	background-image: linear-gradient(rgb(65, 70, 107), rgb(29, 28, 46));
+	/*background-image: linear-gradient(rgb(65, 70, 107), rgb(29, 28, 46));*/
+	background: linear-gradient(180deg, #16203b 10%, #3b58a1 20%);
 }
+
+
 
 #logo{
 		width:40px;
