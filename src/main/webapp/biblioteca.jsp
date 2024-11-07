@@ -18,7 +18,7 @@
 	<nav class="navbar navbar-expand-lg bg-body-tertiary">
 		<div class="container-fluid">
 		<img id="logo" alt="" src="Logo.png">
-			<a class="navbar-brand" href="principal.jsp">JurisCursos</a>
+			<a class="navbar-brand" href="principal.jsp">JuriCursos</a>
 			<button class="navbar-toggler" type="button"
 				data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
 				aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -35,9 +35,9 @@
 					<li class="nav-item"><a class="nav-link" href="#">Biblioteca</a>
 					</li>
 				</ul>
-				<form class="d-flex" role="search">
+				<form class="d-flex" role="search" action="ServletProcura" method="post">
 					<input class="form-control me-2" type="search"
-						placeholder="Pesquisar" aria-label="Search">
+						placeholder="Pesquisar" aria-label="Search" name="buscabiblioteca">
 					<button class="btn btn-outline-success" type="submit">Pesquisar</button>
 				</form>
 			</div>

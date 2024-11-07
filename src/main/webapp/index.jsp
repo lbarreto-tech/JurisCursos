@@ -14,7 +14,7 @@
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
   <img id="logo" alt="" src="Logo.png">
-    <a class="navbar-brand" href="#">JurisCursos</a>
+    <a class="navbar-brand" href="#">JuriCursos</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -27,7 +27,7 @@
           <a class="nav-link" href="#">Questões</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">VideoChamada</a>
+          <a class="nav-link" href="#">Video chamada</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Biblioteca</a>
@@ -49,7 +49,7 @@
     <h1>O Melhor Curso do Brasil</h1>
   </div>
 
-  <h2 class="aprovacao text-primary">SÓ É IMPOSSÍVEL ATÉ VOCÊ CONQUISTAR A APROVAÇÃO!</h2>
+  <h2 class="aprovacao " style="color:white;">SÓ É IMPOSSÍVEL ATÉ VOCÊ CONQUISTAR A APROVAÇÃO!</h2>
 
   <p class="frase">Prepare-se de forma ilimitada com JurisCursos!</p>
 
@@ -78,6 +78,12 @@
     </div>
   </div>
 </div>
+
+<style>
+body{
+background-color: #41466b;
+}
+</style>
 
 </body>
 </html>

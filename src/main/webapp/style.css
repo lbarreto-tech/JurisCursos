@@ -1,14 +1,14 @@
 @charset "UTF-8";
 
 :root {
-			--primary-color: #007bff;
+			--primary-color: rgb(85, 90, 130);
 			--background-color: #92cdf7;
 			--text-color: #ffffff;
 			--box-shadow-color: rgba(0, 0, 0, 0.3);
 		}
 
 		body {
-			background-image: linear-gradient(180deg, #151E38 70.5%, #3A569E 100%);
+			background-color: #41466b;
 		}
 		
 		#topotela {
