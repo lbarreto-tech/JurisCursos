@@ -27,16 +27,24 @@ public class ServletProcura extends HttpServlet {
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
 		String buscaprincipal =  request.getParameter("buscaprincipal");
-		String buscabiblioteca =  request.getParameter("buscabiblioteca");
 		
 		if(buscaprincipal.equalsIgnoreCase("aulas")) {
-			RequestDispatcher redirecionar = request.getRequestDispatcher("aulas.jsp");
+			RequestDispatcher redirecionar = request.getRequestDispatcher("trilha-de-estudos.jsp");
 			redirecionar.forward(request, response);
 		}else if(buscaprincipal.equalsIgnoreCase("biblioteca")) {
 			RequestDispatcher redirecionar = request.getRequestDispatcher("biblioteca.jsp");
 			redirecionar.forward(request, response);
 		}else if(buscaprincipal.equalsIgnoreCase("videochamada")) {
 			RequestDispatcher redirecionar = request.getRequestDispatcher("videochamada.jsp");
+			redirecionar.forward(request, response);
+		}else if(buscaprincipal.equalsIgnoreCase("questões")) {
+			RequestDispatcher redirecionar = request.getRequestDispatcher("trilha-de-estudos.jsp");
+			redirecionar.forward(request, response);
+		}else if(buscaprincipal.equalsIgnoreCase("perfil")) {
+			RequestDispatcher redirecionar = request.getRequestDispatcher("trilha-de-estudos.jsp");
+			redirecionar.forward(request, response);
+		}else {
+			RequestDispatcher redirecionar = request.getRequestDispatcher("principal.jsp");
 			redirecionar.forward(request, response);
 		}
 		

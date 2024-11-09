@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <link rel="stylesheet" href="pagamento.css">
 <link rel="icon" href="Logo.png">
-<title>JurisCursos - Pagamento</title>
+<title>JuriCursos - Pagamento</title>
 </head>
 <body>
 

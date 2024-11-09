@@ -11,7 +11,7 @@
 	crossorigin="anonymous">
 <link rel="stylesheet" href="comentarios.css">
 <link rel="icon" href="Logo.png">
-<title>Comentarios</title>
+<title>JuriCuros - Comentarios</title>
 </head>
 <body>
 	
@@ -29,12 +29,14 @@
 			</button>
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav me-auto mb-2 mb-lg-0">
-					<li class="nav-item"><a class="nav-link" href="#">Aulas</a></li>
-					<li class="nav-item"><a class="nav-link" href="#">Questões</a>
+					<li class="nav-item"><a class="nav-link" href="trilha-de-estudos.jsp">Aulas</a></li>
+					<li class="nav-item"><a class="nav-link" href="trilha-de-estudos.jsp">Questões</a>
 					</li>
-					<li class="nav-item"><a class="nav-link" href="#">VideoChamada</a>
+					<li class="nav-item"><a class="nav-link" href="videochamada.jsp">VideoChamada</a>
 					</li>
 					<li class="nav-item"><a class="nav-link" href="biblioteca.jsp">Biblioteca</a>
+					</li>
+					<li class="nav-item"><a class="nav-link" href="trilha-de-estudos.jsp">Perfil</a>
 					</li>
 				</ul>
 				<form class="d-flex" role="search">
